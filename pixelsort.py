@@ -6,7 +6,6 @@ import math
 import sys
 
 import colorsys
-import numpy as np
 from PIL import Image
 
 
