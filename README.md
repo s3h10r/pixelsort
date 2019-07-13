@@ -3,17 +3,10 @@ pixelsort
 
 pixelsort rearranges the pixels of an input image via sorting them by color.
 
-<img src="/examples/example.png" width="48%"></img>
-<img src="/examples/example.ps-10.png" width="48%"></img>
 <img src="/examples/example.analysis.png" width="48%"></img>
-<img src="/examples/example.ps-20.png" width="48%"></img>
-
-<!--
-<img src="example2.png" width="48%"></img>
-<img src="example2.ps-10.png" width="48%"></img>
-<img src="example2.analysis.png" width="48%"></img>
-<img src="example2.ps-20.png" width="48%"></img>
--->
+<img src="/examples/example.ps-10.png" width="48%"></img>
+<img src="/examples/example2.ps-10.png" width="48%"></img>
+<img src="/examples/example2.analysis.png" width="48%"></img>
 
 usage:
 
